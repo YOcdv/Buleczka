@@ -1,1 +1,10 @@
-
+- Croissant: 4 zł
+- Bagietka: 5 zł
+- Ciasto czekoladowe: 8 zł
+- Rogal z marmoladą: 3 zł
+- Bułka maślana: 2 zł
+- Chleb wiejski: 6 zł
+- Pączek z różą: 4 zł
+- Kawa latte: 10 zł
+- Herbata ziołowa: 5 zł
+- Sernik: 7 zł
